@@ -4,7 +4,7 @@ Turning a 1987 Sanyo Slim cassette player into a smart AI assistant powered by E
 
 ![Hardware Diagram](schematic_hdtv_display.jpg)
 
-Watch the video here: [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=Oo-JKjHwuaw)
+Watch the video here: [https://www.youtube.com/watch?v=Oo-JKjHwuaw](https://www.youtube.com/watch?v=Oo-JKjHwuaw)
 
 ## 📌 Project Overview
 This project breathes new life into a 1987 Sanyo Slim cassette player. By integrating an **ESP32-S3** and the **FabGL library**, I transformed this piece of vintage gear into an interactive AI voice chatbot that displays visual feedback on an HDTV.
